@@ -1,0 +1,18 @@
+{
+  "name": "seversale",
+  "version": "0.0.5",
+  "description": "sever for sale application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node sever.js"
+  },
+  "author": "khiemkino",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "1.3.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "hapi": "~16.6.2"
+  }
+}
